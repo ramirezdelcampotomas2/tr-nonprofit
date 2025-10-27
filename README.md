@@ -25,7 +25,7 @@ Integra PHP y MySQL bajo un entorno Docker, con un flujo de trabajo colaborativo
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/<tu-usuario>/tr-nonprofit.git
+   git clone https://github.com/ramirezdelcampo.tomas2/tr-nonprofit.git
    cd tr-nonprofit
    ```
 
