@@ -74,12 +74,13 @@ tr-nonprofit/
 
 ## 🤝 Flujo de trabajo colaborativo
 
-1. Crear rama de desarrollo:
+1. Asegurarse de estar en la rama de desarrollo:
    ```bash
-   git checkout -b dev
+   git checkout dev
+   git pull origin dev
    ```
 
-2. Nueva funcionalidad:
+2. Crear una nueva rama desde dev para la funcionalidad asignada:
    ```bash
    git checkout -b feature-nueva-funcionalidad
    ```
@@ -91,7 +92,7 @@ tr-nonprofit/
    git push origin feature-nueva-funcionalidad
    ```
 
-4. Crear un **Pull Request** desde GitHub.
+4. Crear un Pull Request (PR) desde feature-nueva-funcionalidad hacia dev en GitHub.
 
 5. Usar la pestaña **Issues** para discutir errores o mejoras.
 
