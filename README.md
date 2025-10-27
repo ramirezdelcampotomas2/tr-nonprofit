@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="PHP Logo" width="90"/>
-  <img src="https://img.icons8.com/?size=512&id=17949&format=png" alt="MySQL Logo" width="90"/>
   <img src="https://img.icons8.com/?size=512&id=22813&format=png" alt="Docker Logo" width="90"/>
   <img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="Git Logo" width="90"/>
-  <img src="https://img.icons8.com/?size=512&id=20909&format=png" alt="HTML CSS Logo" width="90"/>
 </p>
 
 <h1 align="center">🌐 TR-Nonprofit · ONG Demo</h1>
